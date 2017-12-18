@@ -1,6 +1,6 @@
 require "sinatra"
 
-get '/'
+get '/' do
 
 return "Antonio"
-end 
+end
