@@ -1,2 +1,1 @@
-web: bundle exec ruby
-sinatra.rb -p $Port 
+web: bundle exec ruby sinatra.rb -p $Port 
